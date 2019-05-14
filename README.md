@@ -33,8 +33,8 @@ Day 3: Recursion 2
 Day 4: Two pointers
 
 # Week 5 :
-Day 1: Stack and Queue
-Day 2: Map and Set
+Day 1: Stack & Queue
+Day 2: Map & Set
 Day 3: Dfs
 Day 4: Bfs
 
