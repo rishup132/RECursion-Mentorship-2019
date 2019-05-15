@@ -1,11 +1,9 @@
+LOOPS :
+
 Visuals :
 
-
-
-
+https://www.youtube.com/watch?v=S7sFv7rX6Tc
 
 Readings :
 
-
-
-
+https://www.geeksforgeeks.org/loops-in-c-and-cpp/
