@@ -1,11 +1,9 @@
 Visuals :
 
-
-
-
+https://www.youtube.com/watch?v=AZvKbSdvoRU
 
 Readings :
 
-
-
+https://www.geeksforgeeks.org/operators-c-c/
+https://www.hackerearth.com/practice/basic-programming/operators/basics-of-operators/tutorial/
 
