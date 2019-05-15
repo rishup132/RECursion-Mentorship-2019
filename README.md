@@ -49,3 +49,7 @@ It is a Mentorship program for First-Year students.
 - Day 3: Dynamic programming 2
 
 ## To-Do
+- Read the Material.
+- Solve the problems.
+- Create a pull request in which you have to add your solution to a problem into the respective folder of your name.
+- Let suppose, you solve a problem No. x from day-y of week-z then you have to create a x.cpp file inside your name folder under day-y of week-z.
