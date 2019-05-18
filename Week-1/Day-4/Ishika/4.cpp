@@ -3,19 +3,19 @@ using namespace std;
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-int main() {
-	int t,c=0;;
-
-cin >> t;
-for(int i=2;i<=t;i++)
+int main()
 {
+	int n;
+	cin >> n;long long a[n],c;
+	for(int i=0;i<n;i++)
+	cin >> a[i];
+	for(int i=0;i<3;i++)
+	{
 	c=0;
-	for(int j=2;j*j<=i;j++)
-	if(i%j==0)
-	c++;
-	if(c==0)
-cout  << i<< " ";
-}
+	for(int j=i;j<n;j+=3)
+	c=c+a[j];
+	cout  << c << " ";
+	}
 	return 0;
 }
 
