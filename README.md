@@ -2,6 +2,29 @@
 
 It is a Mentorship program for First-Year students.
 
+## Score Table
+
+| WEEKS | Akarshan | Ankit | Ankita | Bhupesh | Ishika | Khushi | Sourav |
+|:-----:|:--------:|:-----:|:------:|:-------:|:------:|:------:|:------:|
+| 1     |          |       |        |         |        |        |        |
+| 2     |          |       |        |         |        |        |        |
+| 3     |          |       |        |         |        |        |        |
+| 4     |          |       |        |         |        |        |        |
+| 5     |          |       |        |         |        |        |        |
+| 6     |          |       |        |         |        |        |        |
+
+## Points Table
+
+|    NAME    |   POINTS   |
+|:----------:|:----------:|
+| Akarshan   |            |
+| Ankit      |            |
+| Ankita     |            |
+| Bhupesh    |            |
+| Ishika     |            |
+| Khushi     |            |
+| Sourav     |            |
+
 ## Introduction
 
 - This is six week course.
