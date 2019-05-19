@@ -1,11 +1,10 @@
 Visuals :
 
-
-
-
+https://www.youtube.com/watch?v=4l50UaPca7Y  (in JAVA)
+https://www.youtube.com/watch?v=ijIxcB9qjaU  (in C++)
 
 Readings :
 
-
-
-
+https://www.hackerearth.com/practice/algorithms/string-algorithm/basics-of-string-manipulation/tutorial/
+https://www.geeksforgeeks.org/stdstring-class-in-c/
+https://www.tutorialspoint.com/cplusplus/cpp_strings.htm
