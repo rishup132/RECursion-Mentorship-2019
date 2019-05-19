@@ -1,11 +1,9 @@
 Visuals :
 
-
-
-
+https://www.youtube.com/watch?v=8syQKTdgdzc
+https://www.youtube.com/watch?v=fZc3ijGM0aM
 
 Readings :
 
-
-
-
+https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/
+https://www.cs.cmu.edu/~adamchik/15-121/lectures/Algorithmic%20Complexity/complexity.html

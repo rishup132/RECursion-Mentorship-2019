@@ -1,11 +1,11 @@
 Visuals :
 
-
-
-
+https://www.youtube.com/watch?v=NptnmWvkbTw
+https://www.youtube.com/watch?v=TmM9XAIKa-Y  (in JAVA)
+https://www.youtube.com/watch?v=ibeGtDEQGz0  (in C++)
 
 Readings :
 
-
-
-
+https://www.geeksforgeeks.org/introduction-to-arrays/
+https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/
+https://www.hackerearth.com/practice/data-structures/arrays/multi-dimensional/tutorial/
