@@ -25,4 +25,4 @@ if(s>d)
 			}
 		return 0;
 }
-→Judgement Protoc
+
